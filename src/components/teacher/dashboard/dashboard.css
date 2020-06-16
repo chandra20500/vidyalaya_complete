@@ -1,0 +1,10 @@
+/*.roots {
+    flex-grow: 1;
+    width: 60vw;
+    height:85vh;
+    overflow-x:hidden;
+    scrollbar-width:none;
+  }*/
+  ::-webkit-scrollbar {
+    display: none;
+}
